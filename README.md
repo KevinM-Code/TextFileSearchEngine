@@ -6,7 +6,7 @@ This program is compiled for a Windows 10 machine.
 
 To run the program:
 
-1. Download and unzip the `dist` folder.
-2. Open to the contents of the `dist` folder.
+1. Download and unzip the `FileSearchEngine` folder.
+2. Open to the contents of the `FileSearchEngine` folder.
 3. double-click the `FileSearchApp.exe` file.
 
